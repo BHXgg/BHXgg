@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @BHXgg
-- 👀 I’m interested in Video Games, Programming, Game Development & Speedcubing
+- 👀 I’m interested in Video Games, Programming, Game Development
 - 💞️ I’m looking to collaborate on Anything Interesting! Shoot me a DM!
-- 📫 How to reach me: Discord: bwadd
