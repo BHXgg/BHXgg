@@ -52,7 +52,7 @@ A lightweight mod loader for a Unity 6 game, built from scratch. Mods inject wit
 
 ### 🧪 In the lab
 
-- **Fold Glass**: an iPhone Duo-style glass fold transition for Android foldables, driven by the hinge sensor, with gyro-based detection of which half is moving. *In development.*
+- **Frostfold**: an iPhone Duo-style frosted-glass fold transition for Android foldables (book-style and flip), driven by the hinge sensor, with gyro-based detection of which half is moving. *In development.*
 
 ---
 
